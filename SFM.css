@@ -1,0 +1,23 @@
+body{font-family: 'Poltawski Nowy', serif;
+    font-family: 'Raleway', sans-serif;
+}
+.SFMall{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 0;
+    background-image: linear-gradient(#d7884d, #e9d558);
+}
+.SFMdiv{
+    width: 40%;
+}
+.SFMtitle{
+    font-size: 200%;
+    padding: 24px 0;
+}
+.SFMsobre{
+    font-size: 150%;
+}
+.SFM{
+    width: 30%;
+}
